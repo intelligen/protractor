@@ -8,7 +8,7 @@
   "dependencies": {
     "@angular/common": "5.0.0-beta.7",
     "@angular/compiler": "5.0.0-beta.7",
-    "@angular/core": "5.0.0-beta.7",
+    "@angular/core": "20.3.28",
     "@angular/http": "5.0.0-beta.7",
     "@angular/platform-browser": "5.0.0-beta.7",
     "@angular/animations": "5.0.0-beta.7",
